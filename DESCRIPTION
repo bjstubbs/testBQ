@@ -1,0 +1,9 @@
+Package: testBQ
+Version: 0.1
+Date: 2018-08-13
+Title: Demo for web based data validation
+Author: BJ Stubbs
+Maintainer: BJ Stubbs <rebjh@channing.harvard.edu>
+Depends: R (>= 3.0.0)
+Description: Small demo using jekyll and github pages to store pre-run test results for comparisions
+License: CCSA

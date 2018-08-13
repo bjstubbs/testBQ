@@ -1,0 +1,10 @@
+# Site settings
+email: rebjh@channing.harvard.edu
+theme: jekyll-theme-hacker
+title: testBQ
+description: "Demo for online data validation"
+url: 
+baseurl: 
+
+# Build settings
+markdown: kramdown

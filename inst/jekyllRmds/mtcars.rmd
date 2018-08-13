@@ -1,0 +1,17 @@
+---
+layout: post
+title: mtcars
+author: BJ
+date: 8-18-2018
+---
+
+Data Page for: mtcars
+File Location: local
+Data Description: mtcars
+
+
+```{r echo=TRUE}
+mtcars[c(1,2,3),c(1,4,5)]
+```
+
+
