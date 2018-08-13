@@ -10,8 +10,9 @@ File Location: local
 Data Description: mtcars
 
 
-```{r echo=TRUE}
-mtcars[c(1,2,3),c(1,4,5)]
+```{r echo=TRUE, results="asis"}
+library(xtable)
+print(xtable(mtcars[c(1,2,3),c(1,4,5)]),"html")
 ```
 
 
